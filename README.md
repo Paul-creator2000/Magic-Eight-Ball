@@ -7,3 +7,7 @@ The Magic 8-Ball is a plastic sphere, made to look like an eight-ball, that is u
 ## How it works
 
     - The user will be able to input a question, then our program will output a random fortune .
+
+### Disclaimer
+
+My code is not so perfect. Feel free to correct it where possible.
